@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently learning Java Spring Boot,Docker,Spring Data,Spring Security <br>- 📫 How to reach me: c.igrek63@hotmail.com 
+- 🌱 I’m currently learning Java Spring Boot,Docker,Spring Data,Spring Security,React <br>- 📫 How to reach me: c.igrek63@hotmail.com 
 
 
 ## 🌐 Socials:
